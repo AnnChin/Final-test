@@ -5,3 +5,10 @@
 
 // При решении не рекомендуется пользоваться коллекциями, 
 // лучше обойтись исключительно массивами.
+
+int UserInputNumbers(string message)
+{
+    Console.Write(message);
+    int result = Convert.ToInt32(Console.ReadLine());
+    return result;
+}
