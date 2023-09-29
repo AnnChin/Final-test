@@ -29,3 +29,24 @@ void PrintArray(string[] arr)
         Console.Write($"{arr[i]} ");
     }
 }
+
+int lenArr = UserInputNumbers("Задайте количество слов: ");
+string[] Arr = new string[lenArr];
+FillArray(Arr);
+Console.WriteLine($"Исходный массив: ");
+PrintArray(Arr);
+Console.WriteLine();
+
+string[] Arr2 = new string[Arr.Length];
+int j = 0;
+for (int i = 0; i < Arr.Length; i++)
+{
+    if (Arr[i].Length <= 3)
+    {
+        Arr2[j] = Arr[i];
+        j++;
+    }
+}
+
+Console.WriteLine($"Новый массив: ");
+PrintArray(Arr2);
