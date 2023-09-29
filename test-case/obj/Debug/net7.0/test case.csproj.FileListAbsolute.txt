@@ -12,3 +12,17 @@ C:\Users\Anna\Desktop\Обучение\языки программировани
 C:\Users\Anna\Desktop\Обучение\языки программирования\Final test\test case\obj\Debug\net7.0\test case.pdb
 C:\Users\Anna\Desktop\Обучение\языки программирования\Final test\test case\obj\Debug\net7.0\test case.genruntimeconfig.cache
 C:\Users\Anna\Desktop\Обучение\языки программирования\Final test\test case\obj\Debug\net7.0\ref\test case.dll
+C:\Users\Anna\Desktop\Обучение\языки программирования\Final test\test-case\bin\Debug\net7.0\test case.exe
+C:\Users\Anna\Desktop\Обучение\языки программирования\Final test\test-case\bin\Debug\net7.0\test case.deps.json
+C:\Users\Anna\Desktop\Обучение\языки программирования\Final test\test-case\bin\Debug\net7.0\test case.runtimeconfig.json
+C:\Users\Anna\Desktop\Обучение\языки программирования\Final test\test-case\bin\Debug\net7.0\test case.dll
+C:\Users\Anna\Desktop\Обучение\языки программирования\Final test\test-case\bin\Debug\net7.0\test case.pdb
+C:\Users\Anna\Desktop\Обучение\языки программирования\Final test\test-case\obj\Debug\net7.0\test case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Обучение\языки программирования\Final test\test-case\obj\Debug\net7.0\test case.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Обучение\языки программирования\Final test\test-case\obj\Debug\net7.0\test case.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Обучение\языки программирования\Final test\test-case\obj\Debug\net7.0\test case.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Обучение\языки программирования\Final test\test-case\obj\Debug\net7.0\test case.dll
+C:\Users\Anna\Desktop\Обучение\языки программирования\Final test\test-case\obj\Debug\net7.0\refint\test case.dll
+C:\Users\Anna\Desktop\Обучение\языки программирования\Final test\test-case\obj\Debug\net7.0\test case.pdb
+C:\Users\Anna\Desktop\Обучение\языки программирования\Final test\test-case\obj\Debug\net7.0\test case.genruntimeconfig.cache
+C:\Users\Anna\Desktop\Обучение\языки программирования\Final test\test-case\obj\Debug\net7.0\ref\test case.dll

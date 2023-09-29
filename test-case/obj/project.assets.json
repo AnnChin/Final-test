@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anna\\Desktop\\Обучение\\языки программирования\\Final test\\test case\\test case.csproj",
+      "projectUniqueName": "C:\\Users\\Anna\\Desktop\\Обучение\\языки программирования\\Final test\\test-case\\test case.csproj",
       "projectName": "test case",
-      "projectPath": "C:\\Users\\Anna\\Desktop\\Обучение\\языки программирования\\Final test\\test case\\test case.csproj",
+      "projectPath": "C:\\Users\\Anna\\Desktop\\Обучение\\языки программирования\\Final test\\test-case\\test case.csproj",
       "packagesPath": "C:\\Users\\Anna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anna\\Desktop\\Обучение\\языки программирования\\Final test\\test case\\obj\\",
+      "outputPath": "C:\\Users\\Anna\\Desktop\\Обучение\\языки программирования\\Final test\\test-case\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anna\\AppData\\Roaming\\NuGet\\NuGet.Config"
