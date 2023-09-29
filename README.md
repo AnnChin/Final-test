@@ -19,6 +19,6 @@
 
 Для визуализации решения выводим новый массив в консоль.
 
-Блок-схема: Final-test/блок-схема.jpg
+## Блок-схема: Final-test/блок-схема.jpg
 
-Решение задачи: Final-test/test-case/Program.cs
+## Решение задачи: Final-test/test-case/Program.cs
