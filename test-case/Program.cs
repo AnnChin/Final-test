@@ -12,3 +12,12 @@ int UserInputNumbers(string message)
     int result = Convert.ToInt32(Console.ReadLine());
     return result;
 }
+
+void FillArray(string[] arr)
+{
+    for (int i = 0; i < arr.Length; i++)
+    {
+        Console.Write($"Введите {i + 1} эллемент массива: ");
+        arr[i] = Console.ReadLine();
+    }
+}
